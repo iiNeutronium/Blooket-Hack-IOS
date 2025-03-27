@@ -8,3 +8,5 @@ make sure you have run scripts activated in advanced settings of shortcuts (and 
 3. Go to blooket.com
 4. login, start or join a game.
 5. open share and click "Blooket Hacks"
+
+currently working on the shortcut, may take a couple days before release for a good experience.
