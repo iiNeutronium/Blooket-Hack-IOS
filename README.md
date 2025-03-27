@@ -1,3 +1,6 @@
+# Blooket
+please contact me at iineutronium@gmail.com so i can take the repository down, id rather lose this than my whole account.
+
 # Blooket-Hack-IOS 
 I am not responible for any consequences or repercussions due to your negligence. 
 
