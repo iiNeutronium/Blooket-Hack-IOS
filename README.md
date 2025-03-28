@@ -13,3 +13,6 @@ make sure you have run scripts activated in advanced settings of shortcuts (and 
 5. open share and click "Blooket Hacks"
 
 currently working on the shortcut, may take a couple days before release for a good experience.
+
+# Bugs list
+in projects there is a bug area which will inform you of current/fixed bugs and if they are pushed to the update.
